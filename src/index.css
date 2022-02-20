@@ -45,6 +45,11 @@ code {
   color: white;
 }
 
+.header a.icon {
+  float: left;
+  color: white;
+}
+
 .footer {
   overflow: hidden;
   /* background-color: rgb(138, 218, 221); */
