@@ -1,0 +1,1 @@
+export const HOME_SCREEN_CONTENT = "WELCOME to ALGO SIMU. Do you think learning basic algorithims is little troublesome for freshers?\n If you think so, that's probably because you are following the wrong approach to learn. Best way to learn  an algorithm is to visualize the process and Algo Simu is here to make you visualize the process. Happy learning :)"
