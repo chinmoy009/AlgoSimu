@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-import {NAME, MOTO} from '../constants/headerConstants' ;
+import {NAME, MOTO} from '../constants/headerConstants';
 import {Link} from 'react-router-dom';
 
  class Header extends Component {
   
   hamBurgerMenuClicked(e) {
-      //TODO: There should be the fuctionality for passing data to parent to show/hide nav bar
+      console.log("Clicked");
   }
 
 
