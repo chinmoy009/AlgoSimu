@@ -16,6 +16,7 @@ import {Link} from 'react-router-dom';
             <i class="fa fa-bars"></i> 
         </a>
         <Link to="/" class="logo">{NAME}</Link>
+        <Link to="/sortingInput/selection">Selection sort demo</Link>
         <div class="header-right">
           <p>{MOTO}</p>
         </div>

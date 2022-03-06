@@ -77,4 +77,24 @@ code {
   height: 100%
 }
 
+.sorting-item-input {
+  height: 30px;
+}
+
+.input-command {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.input-comp {
+  position: absolute;
+  left: 30px;
+  padding: 15px;
+}
+
+.input-button-pan {
+  float: right;
+}
+
 
